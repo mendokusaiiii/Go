@@ -1,0 +1,1 @@
+go mod tidy = remove todas as dependencias que não estão sendo utilizadas
